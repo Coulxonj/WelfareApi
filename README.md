@@ -1,1 +1,2 @@
 # WelfareApi
+# The API provides programmatic access to welfare-related data and services, enabling applications to interact with and manage welfare resources. It typically allows authorized users to retrieve, update, and analyze information about all welfare programs taking place in the organization, eligibility criteria, beneficiaries,contributions, expenses and benefits disbursement. By centralizing welfare data, the API streamlines processes, improves accessibility and enhances transparency and efficiency in welfare service delivery.
